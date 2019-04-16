@@ -1,4 +1,6 @@
 # toutiao
+### 学习vue 测试用项目
+#### 没有使用vuex 纯组件间传值(当时还不动vuex)
 
 > A Vue.js project
 
@@ -11,11 +13,3 @@ npm install
 # serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
